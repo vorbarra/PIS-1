@@ -11,5 +11,9 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello World");
         }
+        static void Nova()
+        {
+            Console.WriteLine("Hello World 2");
+        }
     }
 }
